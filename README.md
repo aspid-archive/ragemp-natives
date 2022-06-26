@@ -2,7 +2,16 @@
 
 Пока что без описания :)
 
-## Использование
+## Установка
 ```
 npm i @aspidemon/ragemp-natives
+```
+
+## Использование
+```js
+import * as native from '@aspidemon/ragemp-natives';
+```
+
+```js
+let native = require('@aspidemon/ragemp-natives');
 ```
