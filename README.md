@@ -10,7 +10,7 @@ npm i @aspidemon/ragemp-natives@latest
 ## Использование
 ```js
 // ECMA SCRIPT 6
-import * as native from '@aspidemon/ragemp-natives';
+import native from '@aspidemon/ragemp-natives';
 
 // ECMA SCRIPT 5
 let native = require('@aspidemon/ragemp-natives');
