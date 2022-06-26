@@ -1,0 +1,19 @@
+{
+  "name": "@aspidemon/ragemp-natives",
+  "version": "0.0.1",
+  "description": "Пока что без описания :)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aspidemon/ragemp-natives.git"
+  },
+  "author": "ASPI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aspidemon/ragemp-natives/issues"
+  },
+  "homepage": "https://github.com/aspidemon/ragemp-natives#readme"
+}
