@@ -7,4 +7,4 @@ let array = require('./natives.json');
 
 const natives = array;
 
-export default natives;
+module.exports = natives;
